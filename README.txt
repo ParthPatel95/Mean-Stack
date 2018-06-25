@@ -1,6 +1,5 @@
-# MEAN Stack Login System 
+MEAN Stack Login System 
 
-
-# Usage
+Usage
 npm install 
 npm start 
